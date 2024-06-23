@@ -44,7 +44,7 @@ def light_read():
     while True:
         Light = light.read() # Read the light value
 #         value.config(text=Light)
-        if Light < 800:
+        if Light < 50:
             natural_expression = 0
             sleep = 1
         else:
