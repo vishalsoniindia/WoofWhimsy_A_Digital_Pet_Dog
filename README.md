@@ -1,7 +1,7 @@
 "Woof" is associated with the sound of a dog, and "Whimsy" refers to a playful or fanciful idea, something lighthearted and imaginative. WoofWhimsy is adigital pet dog that interacts with the outer world through sensors, allowing users to play with it. It has motion and sound sensors that can detect movement around the device and the sounds. The Project Made Using UNIHIKER Board.
 
 ________________________________________________
-buy me a coffee! ☕: Paypal
+buy me a coffee! ☕:  https://www.paypal.com/ncp/payment/YXAV36PXYN59G
 ________________________________________________
 Watch it on youtube : https://youtu.be/648MbPiag4c
 ________________________________________________
